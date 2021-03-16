@@ -4,4 +4,4 @@ This is a raspberry pi button game. The computer picks a random number between 1
 <br><br>
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/70167500/111329738-65fdcd80-8680-11eb-8aa7-f6ab1deaa127.png)](https://www.youtube.com/watch?v=ZM3R0nIEOJI "Raspberry Pi Button GAME !")
 <br><br>
-<img src="https://user-images.githubusercontent.com/70167500/111329217-04d5fa00-8680-11eb-8c32-9a11cae2195c.PNG">
+<img src="https://user-images.githubusercontent.com/70167500/111329217-04d5fa00-8680-11eb-8c32-9a11cae2195c.PNG" width=300>
